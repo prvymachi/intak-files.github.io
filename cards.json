@@ -10,11 +10,11 @@
   
     "BHOS1": [{
             "name": "★ EXO **Baekhyun** - Obsession",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594949967224843/v1_card_Baekhyun.png",
             "idol": "Baekhyun",
             "group": "EXO",
             "rarity": "★",
             "era": "Obsession",
-            "image": "https://media.discordapp.net/attachments/1044919006861213737/1044919139862585424/seungyoon_c.png",
     }]
   
 }
