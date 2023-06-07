@@ -1,14 +1,11 @@
 {
-"cardbook": [{
-  "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
-}],
     "SHOS1": [{
             "name": "★ EXO **Suho** - Obsession",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594949539414076/v1_card_Suho.png",
             "idol": "Suho",
             "group: "EXO",
             "rarity": "★",
             "era": "Obsession",
-            "image": "https://media.discordapp.net/attachments/1044919006861213737/1044919140277813269/jinwoo_c.png",
     }],
   
     "BHOS1": [{
