@@ -1,19 +1,19 @@
 {
     "SHOS1": [{
-            "name": "★ EXO **Suho** - Obsession",
+            "name": "<:EW:1116162633251430521> EXO **Suho** - Obsession",
             "image": "https://media.discordapp.net/attachments/1115192665810665523/1115951472161599488/v1_card_Sunghoon.png",
             "idol": "Suho",
             "group": "EXO",
-            "rarity": "★",
+            "rarity": "<:EW:1116162633251430521>",
             "era": "Obsession"
     }],
 
     "BHOS1": [{
-            "name": "★ EXO **Baekhyun** - Obsession",
+            "name": "<:EW:1116162633251430521> EXO **Baekhyun** - Obsession",
             "image": "https://media.discordapp.net/attachments/1115192665810665523/1115594949967224843/v1_card_Baekhyun.png",
             "idol": "Baekhyun",
             "group": "EXO",
-            "rarity": "★",
+            "rarity": "<:EW:1116162633251430521>",
             "era": "Obsession"
     }]
 }
