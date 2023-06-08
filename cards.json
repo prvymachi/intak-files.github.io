@@ -1,19 +1,26 @@
 {
     "SHBM1": [{
             "name": "<:EW:1116162633251430521> ONEUS **Seoho** - Black Mirror",
-            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115250512657395742/v1_card_Seoho.png",
             "idol": "Seoho",
             "group": "Black Mirror",
             "rarity": "<:EW:1116162633251430521>",
-            "era": "Black Mirror"
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115250512657395742/v1_card_Seoho.png"
     }],
-
     "LDBM1": [{
             "name": "<:EW:1116162633251430521> ONEUS **Leedo** - Black Mirror",
-            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115250513005514793/v1_card_Leedo.png",
             "idol": "Leedo",
             "group": "ONEUS",
             "rarity": "<:EW:1116162633251430521>",
-            "era": "Black Mirror"
-    }]
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115250513005514793/v1_card_Leedo.png"
+    }],
+    "KHBM1": [{
+            "name": "<:EW:1116162633251430521> ONEUS **Keonhee** - Black Mirror",
+            "idol": "Leedo",
+            "group": "ONEUS",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115250513362042900/v1_card_Keonhee.png"
+    
 }
