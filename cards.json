@@ -1,0 +1,1094 @@
+{
+    "RVBM1": [
+        {
+            "name": "<:EW:1116162633251430521> ONEUS **Ravn** - Black Mirror",
+            "idol": "Ravn",
+            "group": "ONEUS",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1116306678678294628/v1_card_Ravn.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SHBM1": [
+        {
+            "name": "<:EW:1116162633251430521> ONEUS **Seoho** - Black Mirror",
+            "idol": "Seoho",
+            "group": "ONEUS",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1116306679202598952/v1_card_Seoho.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "LDBM1": [
+        {
+            "name": "<:EW:1116162633251430521> ONEUS **Leedo** - Black Mirror",
+            "idol": "Leedo",
+            "group": "ONEUS",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1116306679521361961/v1_card_Leedo.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "KHBM1": [
+        {
+            "name": "<:EW:1116162633251430521> ONEUS **Keonhee** - Black Mirror",
+            "idol": "Keonhee",
+            "group": "ONEUS",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1116306679865282590/v1_card_Keonhee.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HWBM1": [
+        {
+            "name": "<:EW:1116162633251430521> ONEUS **Hwanwoong** - Black Mirror",
+            "idol": "Hwanwoong",
+            "group": "ONEUS",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1116306680175677470/v1_card_Hwanwoong.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "XOBM1": [
+        {
+            "name": "<:EW:1116162633251430521> ONEUS **Xion** - Black Mirror",
+            "idol": "Xion",
+            "group": "ONEUS",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Black Mirror",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1116306680502829097/v1_card_Xion.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "ISSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Inseong** - Summer Breeze",
+            "idol": "Inseong",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594688490123396/v1_card_Inseong.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "YBSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Youngbin** - Summer Breeze",
+            "idol": "Youngbin",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594688204906586/v1_card_Youngbin.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JYSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Jaeyoon** - Summer Breeze",
+            "idol": "Jaeyoon",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594688829866055/v1_card_Jaeyoon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "DWSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Dawon** - Summer Breeze",
+            "idol": "Dawon",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594689459003443/v1_card_Dowon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "ZHSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Zuho** - Summer Breeze",
+            "idol": "Zuho",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594689970716722/v1_card_Zuho.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "RWSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Rowoon** - Summer Breeze",
+            "idol": "Rowoon",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594690239144016/v1_card_Rowoon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "TYSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Taeyang** - Summer Breeze",
+            "idol": "Taeyang",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594690654388375/v1_card_Taeyang.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HYSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Hwiyoung** - Summer Breeze",
+            "idol": "Hwiyoung",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594690985730088/v1_card_Hwiyoung.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "CNSB1": [
+        {
+            "name": "<:EW:1116162633251430521> SF9 **Chani** - Summer Breeze",
+            "idol": "Chani",
+            "group": "SF9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Summer Breeze",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594691333865554/v1_card_Chani.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "BXFE1": [
+        {
+            "name": "<:EW:1116162633251430521> CIX **BX** - 458",
+            "idol": "BX",
+            "group": "CIX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "458",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115595048680165376/v1_card_BX.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SHFE1": [
+        {
+            "name": "<:EW:1116162633251430521> CIX **Seunghun** - 458",
+            "idol": "Seunghun",
+            "group": "CIX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "458",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115595049045065748/v1_card_Seunghun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "YH4581": [
+        {
+            "name": "<:EW:1116162633251430521> CIX **Yonghee** - 458",
+            "idol": "Yonghee",
+            "group": "CIX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "458",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115595049594536017/v1_card_Yonghee.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "BJFE1": [
+        {
+            "name": "<:EW:1116162633251430521> CIX **Bae Jinyoung** - 458",
+            "idol": "Bae Jinyoung",
+            "group": "CIX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "458",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115595050114617345/v1_card_Jinyoung.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HSFE1": [
+        {
+            "name": "<:EW:1116162633251430521> CIX **Hyunsuk** - 458",
+            "idol": "Hyunsuk",
+            "group": "CIX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "458",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115595050487906396/v1_card_Hyunsuk.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SNGR1": [
+        {
+            "name": "<:EW:1116162633251430521> MONSTA X **Shownu** - Gambler",
+            "idol": "Shownu",
+            "group": "MONSTA X",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Gambler",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115922356293091349/v1_card_Shownu.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "MHGR1": [
+        {
+            "name": "<:EW:1116162633251430521> MONSTA X **Minhyuk** - Gambler",
+            "idol": "Minhyuk",
+            "group": "MONSTA X",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Gambler",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115922356611854436/v1_card_Minhyuk.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "KHGR1": [
+        {
+            "name": "<:EW:1116162633251430521> MONSTA X **Kihyun** - Gambler",
+            "idol": "Kihyun",
+            "group": "MONSTA X",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Gambler",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115922357027094528/v1_card_Kihyun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HWGR1": [
+        {
+            "name": "<:EW:1116162633251430521> MONSTA X **Hyungwon** - Gambler",
+            "idol": "Hyungwon",
+            "group": "MONSTA X",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Gambler",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115922357316497438/v1_card_Hyungwon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JHGR1": [
+        {
+            "name": "<:EW:1116162633251430521> MONSTA X **Jooheon** - Gambler",
+            "idol": "Jooheon",
+            "group": "MONSTA X",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Gambler",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115922357643640902/v1_card_Joohoney.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "IMGR1": [
+        {
+            "name": "<:EW:1116162633251430521> MONSTA X **I.M** - Gambler",
+            "idol": "I.M",
+            "group": "MONSTA X",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Gambler",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115922357924675605/v1_card_I.M.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "GEEN1": [
+        {
+            "name": "<:EW:1116162633251430521> IVE **Gaeul** - ELEVEN",
+            "idol": "Gaeul",
+            "group": "IVE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ELEVEN",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115938842386632754/v1_card_Gaeul.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "YJEN1": [
+        {
+            "name": "<:EW:1116162633251430521> IVE **Yujin** - ELEVEN",
+            "idol": "Yujin",
+            "group": "IVE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ELEVEN",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115938841971400714/v1_card_Yujin.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "REEN1": [
+        {
+            "name": "<:EW:1116162633251430521> IVE **Rei** - ELEVEN",
+            "idol": "Rei",
+            "group": "IVE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ELEVEN",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115938842776707124/v1_card_Rei.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "WYEN1": [
+        {
+            "name": "<:EW:1116162633251430521> IVE **Wonyoung** - ELEVEN",
+            "idol": "Wonyoung",
+            "group": "IVE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ELEVEN",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115938843099664414/v1_card_Wonyoung.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "LIEN1": [
+        {
+            "name": "<:EW:1116162633251430521> IVE **Liz** - ELEVEN",
+            "idol": "Liz",
+            "group": "IVE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ELEVEN",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115938843351335012/v1_card_Liz.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "LSEN1": [
+        {
+            "name": "<:EW:1116162633251430521> IVE **Leeseo** - ELEVEN",
+            "idol": "Leeseo",
+            "group": "IVE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ELEVEN",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115938843682676786/v1_card_Leeseo.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SRFN1": [
+        {
+            "name": "<:EW:1116162633251430521> Fromis_9 **Saerom** - FUN!",
+            "idol": "Saerom",
+            "group": "Fromis_9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FUN!",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242599335346247/f9_saerom.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HYFN1": [
+        {
+            "name": "<:EW:1116162633251430521> Fromis_9 **Hayoung** - FUN!",
+            "idol": "Hayoung",
+            "group": "Fromis_9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FUN!",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242599964491797/f9_hayoung.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JWFN1": [
+        {
+            "name": "<:EW:1116162633251430521> Fromis_9 **Jiwon** - FUN!",
+            "idol": "Jiwon",
+            "group": "Fromis_9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FUN!",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242598106415164/f9_jiwon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JSFN1": [
+        {
+            "name": "<:EW:1116162633251430521> Fromis_9 **Jisun** - FUN!",
+            "idol": "Jisun",
+            "group": "Fromis_9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FUN!",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242597288521839/f9_jisun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SYFN1": [
+        {
+            "name": "<:EW:1116162633251430521> Fromis_9 **Seoyeon** - FUN!",
+            "idol": "Seoyeon",
+            "group": "Fromis_9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FUN!",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242597758271498/f9_seoyeon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "CYFN1": [
+        {
+            "name": "<:EW:1116162633251430521> Fromis_9 **Chaeyoung** - FUN!",
+            "idol": "Chaeyoung",
+            "group": "Fromis_9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FUN!",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242598966243358/f9_chaeyoung.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "NGFN1": [
+        {
+            "name": "<:EW:1116162633251430521> Fromis_9 **Nagyung** - FUN!",
+            "idol": "Nagyung",
+            "group": "Fromis_9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FUN!",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242598546800760/f9_nagyung.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JHFN1": [
+        {
+            "name": "<:EW:1116162633251430521> Fromis_9 **Jiheon** - FUN!",
+            "idol": "Jiheon",
+            "group": "Fromis_9",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FUN!",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242600325197894/f9_jiheon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "LLOO1": [
+        {
+            "name": "<:EW:1116162633251430521> NMIXX **Lily** - O.O",
+            "idol": "Lily",
+            "group": "NMIXX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "O.O",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115241998228652032/nmixx_lily.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HWOO1": [
+        {
+            "name": "<:EW:1116162633251430521> NMIXX **Haewon** - O.O",
+            "idol": "Haewon",
+            "group": "NMIXX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "O.O",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115241996706140292/nmixx_haewon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SYOO1": [
+        {
+            "name": "<:EW:1116162633251430521> NMIXX **Sullyoon** - O.O",
+            "idol": "Sullyoon",
+            "group": "NMIXX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "O.O",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115241997121355866/nmixx_sullyoon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "BEOO1": [
+        {
+            "name": "<:EW:1116162633251430521> NMIXX **Bae** - O.O",
+            "idol": "Bae",
+            "group": "NMIXX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "O.O",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115241997817630840/nmixx_bae.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JWOO1": [
+        {
+            "name": "<:EW:1116162633251430521> NMIXX **Jiwoo** - O.O",
+            "idol": "Jiwoo",
+            "group": "NMIXX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "O.O",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115241996378976386/nmixx_jiwoo.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "KJOO1": [
+        {
+            "name": "<:EW:1116162633251430521> NMIXX **Kyujin** - O.O",
+            "idol": "Kyujin",
+            "group": "NMIXX",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "O.O",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115241997486272553/nmixx_kyujin.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SKAF1": [
+        {
+            "name": "<:EW:1116162633251430521> LE SSERAFIM **Sakura** - ANTIFRAGILE",
+            "idol": "Sakura",
+            "group": "LE SSERAFIM",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ANTIFRAGILE",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115942439740514334/lsfrm_sakura.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "CWAF1": [
+        {
+            "name": "<:EW:1116162633251430521> LE SSERAFIM **Chaewon** - ANTIFRAGILE",
+            "idol": "Chaewon",
+            "group": "LE SSERAFIM",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ANTIFRAGILE",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115942439383990282/lsfrm_chaewon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "YJAF1": [
+        {
+            "name": "<:EW:1116162633251430521> LE SSERAFIM **Yunjin** - ANTIFRAGILE",
+            "idol": "Yunjin",
+            "group": "LE SSERAFIM",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ANTIFRAGILE",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115942440579366912/lsfrm_yunjin.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "KZAF1": [
+        {
+            "name": "<:EW:1116162633251430521> LE SSERAFIM **Kazuha** - ANTIFRAGILE",
+            "idol": "Kazuha",
+            "group": "LE SSERAFIM",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ANTIFRAGILE",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115942441258852363/lsfrm_kazuha.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "ECAF1": [
+        {
+            "name": "<:EW:1116162633251430521> LE SSERAFIM **Eunchae** - ANTIFRAGILE",
+            "idol": "Eunchae",
+            "group": "LE SSERAFIM",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "ANTIFRAGILE",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115942440134791240/lsfrm_eunchae.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "MSGY1": [
+        {
+            "name": "<:EW:1116162633251430521> BILLLIE **Moon Sua** - GingaMingaYo",
+            "idol": "Moon Sua",
+            "group": "BILLLIE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "GingaMingaYo",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115797737049440296/billlie_moonsua-1.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SHGY1": [
+        {
+            "name": "<:EW:1116162633251430521> BILLLIE **Suhyeon** - GingaMingaYo",
+            "idol": "Suhyeon",
+            "group": "BILLLIE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "GingaMingaYo",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115797739272421486/billlie_suhyeon-1.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HRGY1": [
+        {
+            "name": "<:EW:1116162633251430521> BILLLIE **Haram** - GingaMingaYo",
+            "idol": "Haram",
+            "group": "BILLLIE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "GingaMingaYo",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115797738433544222/billlie_haram-1.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "TKGY1": [
+        {
+            "name": "<:EW:1116162633251430521> BILLLIE **Tsuki** - GingaMingaYo",
+            "idol": "Tsuki",
+            "group": "BILLLIE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "GingaMingaYo",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115797737783435304/billlie_tsuki-1.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SNGY1": [
+        {
+            "name": "<:EW:1116162633251430521> BILLLIE **Sheon** - GingaMingaYo",
+            "idol": "Sheon",
+            "group": "BILLLIE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "GingaMingaYo",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115797738152542238/billlie_sheon-1.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SYGY1": [
+        {
+            "name": "<:EW:1116162633251430521> BILLLIE **Siyoon** - GingaMingaYo",
+            "idol": "Siyoon",
+            "group": "BILLLIE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "GingaMingaYo",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115797737368191046/billlie_siyoon-1.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HNGY1": [
+        {
+            "name": "<:EW:1116162633251430521> BILLLIE **Haruna** - GingaMingaYo",
+            "idol": "Haruna",
+            "group": "BILLLIE",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "GingaMingaYo",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115797738836209674/billlie_haruna-1.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SMRU1": [
+        {
+            "name": "<:EW:1116162633251430521> STAYC **Sumin** - RUN2U",
+            "idol": "Sumin",
+            "group": "STAYC",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "RUN2U",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115795597723713656/stayc_sumin.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SERU1": [
+        {
+            "name": "<:EW:1116162633251430521> STAYC **Sieun** - RUN2U",
+            "idol": "Sieun",
+            "group": "STAYC",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "RUN2U",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115795597362999346/stayc_sieun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "ISRU1": [
+        {
+            "name": "<:EW:1116162633251430521> STAYC **Isa** - RUN2U",
+            "idol": "Isa",
+            "group": "STAYC",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "RUN2U",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115795596649971813/stayc_isa.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SNRU1": [
+        {
+            "name": "<:EW:1116162633251430521> STAYC **Seeun** - RUN2U",
+            "idol": "Seeun",
+            "group": "STAYC",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "RUN2U",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115795597023252550/stayc_seeun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "YNRU1": [
+        {
+            "name": "<:EW:1116162633251430521> STAYC **Yoon** - RUN2U",
+            "idol": "Yoon",
+            "group": "STAYC",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "RUN2U",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115795598055051304/stayc_yoon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JRU1": [
+        {
+            "name": "<:EW:1116162633251430521> STAYC **J** - RUN2U",
+            "idol": "J",
+            "group": "STAYC",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "RUN2U",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115795596310229082/stayc_j.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "TYFR1": [
+        {
+            "name": "<:EW:1116162633251430521> SNSD **Taeyeon** - FOREVER 1",
+            "idol": "Taeyeon",
+            "group": "SNSD",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242156777541764/snsd_taeyeon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SNFR1": [
+        {
+            "name": "<:EW:1116162633251430521> SNSD **Sunny** - FOREVER 1",
+            "idol": "Sunny",
+            "group": "SNSD",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242158555930654/snsd_sunny.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "TFFR1": [
+        {
+            "name": "<:EW:1116162633251430521> SNSD **Tiffany** - FOREVER 1",
+            "idol": "Tiffany",
+            "group": "SNSD",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242158983745536/snsd_tiffany.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HYFR1": [
+        {
+            "name": "<:EW:1116162633251430521> SNSD **Hyoyeon** - FOREVER 1",
+            "idol": "Hyoyeon",
+            "group": "SNSD",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242157310214225/snsd_hyoyeon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "YRFR1": [
+        {
+            "name": "<:EW:1116162633251430521> SNSD **Yuri** - FOREVER 1",
+            "idol": "Yuri",
+            "group": "SNSD",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242158170046545/snsd_yuri.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SYFR1": [
+        {
+            "name": "<:EW:1116162633251430521> SNSD **Sooyoung** - FOREVER 1",
+            "idol": "Sooyoung",
+            "group": "SNSD",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242156244869131/snsd_sooyoung.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "YNFR1": [
+        {
+            "name": "<:EW:1116162633251430521> SNSD **Yoona** - FOREVER 1",
+            "idol": "Yoona",
+            "group": "SNSD",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242157746434128/snsd_yoona.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SHFR1": [
+        {
+            "name": "<:EW:1116162633251430521> SNSD **Seohyun** - FOREVER 1",
+            "idol": "Seohyun",
+            "group": "SNSD",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "FOREVER 1",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242155863179364/snsd_seohyun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HSZL1": [
+        {
+            "name": "<:EW:1116162633251430521> CLASS:y **Hyungseo** - Zealous",
+            "idol": "Hyungseo",
+            "group": "CLASS:y",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Zealous",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242348159447131/classy_hyungseo.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "CWZL1": [
+        {
+            "name": "<:EW:1116162633251430521> CLASS:y **Chaewon** - Zealous",
+            "idol": "Chaewon",
+            "group": "CLASS:y",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Zealous",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242346322350110/classy_chaewon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "HJZL1": [
+        {
+            "name": "<:EW:1116162633251430521> CLASS:y **Hyeju** - Zealous",
+            "idol": "Hyeju",
+            "group": "CLASS:y",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Zealous",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242345785470976/classy_hyeju.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "RWZL1": [
+        {
+            "name": "<:EW:1116162633251430521> CLASS:y **Riwon** - Zealous",
+            "idol": "Riwon",
+            "group": "CLASS:y",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Zealous",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242347236700160/classy_riwon.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JMZL1": [
+        {
+            "name": "<:EW:1116162633251430521> CLASS:y **Jimin** - Zealous",
+            "idol": "Jimin",
+            "group": "CLASS:y",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Zealous",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242348696322058/classy_jimin.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "BEZL1": [
+        {
+            "name": "<:EW:1116162633251430521> CLASS:y **Boeun** - Zealous",
+            "idol": "Boeun",
+            "group": "CLASS:y",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Zealous",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242347723243520/classy_boeun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SYZL1": [
+        {
+            "name": "<:EW:1116162633251430521> CLASS:y **Seonyou** - Zealous",
+            "idol": "Seonyou",
+            "group": "CLASS:y",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Zealous",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115242346775330856/classy_seonyou.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "THDL1": [
+        {
+            "name": "<:EW:1116162633251430521> P1HARMONY **Theo** - Do It Like This",
+            "idol": "Theo",
+            "group": "P1HARMONY",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Do It Like This",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115239985302470666/v1_card_Theo.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "KHDL1": [
+        {
+            "name": "<:EW:1116162633251430521> P1HARMONY **Keeho** - Do It Like This",
+            "idol": "Keeho",
+            "group": "P1HARMONY",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Do It Like This",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115239984866267158/v1_card_Keeho.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JUDL1": [
+        {
+            "name": "<:EW:1116162633251430521> P1HARMONY **Jiung** - Do It Like This",
+            "idol": "Jiung",
+            "group": "P1HARMONY",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Do It Like This",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115239985638019072/v1_card_Jiung.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "ITDL1": [
+        {
+            "name": "<:EW:1116162633251430521> P1HARMONY **Intak** - Do It Like This",
+            "idol": "Intak",
+            "group": "P1HARMONY",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Do It Like This",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115239987466735676/v1_card_Intak.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SODL1": [
+        {
+            "name": "<:EW:1116162633251430521> P1HARMONY **Soul** - Do It Like This",
+            "idol": "Soul",
+            "group": "P1HARMONY",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Do It Like This",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115239987865206814/v1_card_Soul.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "JSDL1": [
+        {
+            "name": "<:EW:1116162633251430521> P1HARMONY **Jongseob** - Do It Like This",
+            "idol": "Jongseob",
+            "group": "P1HARMONY",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Do It Like This",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115239988326563891/v1_card_Jongseob.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SHOS1": [
+        {
+            "name": "<:EW:1116162633251430521> EXO **Suho** - Obsession",
+            "idol": "Suho",
+            "group": "EXO",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Obsession",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594949539414076/v1_card_Suho.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "BHOS1": [
+        {
+            "name": "<:EW:1116162633251430521> EXO **Baekhyun** - Obsession",
+            "idol": "Baekhyun",
+            "group": "EXO",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Obsession",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594949967224843/v1_card_Baekhyun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "CHOS1": [
+        {
+            "name": "<:EW:1116162633251430521> EXO **Chen** - Obsession",
+            "idol": "Chen",
+            "group": "EXO",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Obsession",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594950290198568/v1_card_Chen.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "CYOS1": [
+        {
+            "name": "<:EW:1116162633251430521> EXO **Chanyeol** - Obsession",
+            "idol": "Chanyeol",
+            "group": "EXO",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Obsession",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594950634127360/v1_card_Chanyeol.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "KAOS1": [
+        {
+            "name": "<:EW:1116162633251430521> EXO **Kai** - Obsession",
+            "idol": "Kai",
+            "group": "EXO",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Obsession",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594951103893645/v1_card_Kai.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ],
+    "SEOS1": [
+        {
+            "name": "<:EW:1116162633251430521> EXO **Sehun** - Obsession",
+            "idol": "Sehun",
+            "group": "EXO",
+            "rarity": "<:EW:1116162633251430521>",
+            "era": "Obsession",
+            "image": "https://cdn.discordapp.com/attachments/1115192665810665523/1115594951447822460/v1_card_Sehun.png",
+            "copies": "0",
+            "globalcopies": "0"
+        }
+    ]
+}
